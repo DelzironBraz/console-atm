@@ -1,0 +1,14 @@
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\bin\Debug\net6.0\console-atm.exe
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\bin\Debug\net6.0\console-atm.deps.json
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\bin\Debug\net6.0\console-atm.runtimeconfig.json
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\bin\Debug\net6.0\console-atm.dll
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\bin\Debug\net6.0\console-atm.pdb
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.AssemblyInfoInputs.cache
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.AssemblyInfo.cs
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.csproj.CoreCompileInputs.cache
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.dll
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\refint\console-atm.dll
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.pdb
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\console-atm.genruntimeconfig.cache
+C:\Users\delzi\OneDrive\Documents\console-atm\console-atm\obj\Debug\net6.0\ref\console-atm.dll
